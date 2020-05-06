@@ -6,99 +6,47 @@
     "children" : [ {
       "name" : "NonParallelWorker",
       "children" : [ {
-        "name" : "Check About Page",
-        "uid" : "fa28c277f0d3107c",
+        "name" : "Check Index Page",
+        "uid" : "c4f4d99f231ae14e",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "failed",
         "time" : {
-          "start" : 1588780568293,
-          "stop" : 1588780568653,
-          "duration" : 360
+          "start" : 1588781057001,
+          "stop" : 1588781057399,
+          "duration" : 398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Lucerne Publishing case created by Eric Gruber",
+        "uid" : "6206c960f2bfb606",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781062670,
+          "stop" : 1588781066283,
+          "duration" : 3613
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check About PageGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page     | phrase |  |Contact | Contact  |  | FixCo | FixCo     |",
-        "uid" : "5c737f5024892a9f",
+        "uid" : "5803cf1523c39bc8",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "passed",
         "time" : {
-          "start" : 1588780571340,
-          "stop" : 1588780571340,
+          "start" : 1588781043674,
+          "stop" : 1588781043674,
           "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check contact page displays correct information",
-        "uid" : "13c42ebe49012a56",
-        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "failed",
-        "time" : {
-          "start" : 1588780573907,
-          "stop" : 1588780575803,
-          "duration" : 1896
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Lucerne Publishing case created by Eric Gruber",
-        "uid" : "ee2a1f295d23c53",
-        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "failed",
-        "time" : {
-          "start" : 1588780596241,
-          "stop" : 1588780599634,
-          "duration" : 3393
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Lucerne Publishing case created by Eric Gruber",
-        "uid" : "cac68d05746143c4",
-        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "failed",
-        "time" : {
-          "start" : 1588780602304,
-          "stop" : 1588780605538,
-          "duration" : 3234
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
-        "uid" : "c3b0d4b35ae6673",
-        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "passed",
-        "time" : {
-          "start" : 1588780586623,
-          "stop" : 1588780586623,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "401 test tres",
-        "uid" : "6d31aa8f13ada3a6",
-        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "broken",
-        "time" : {
-          "start" : 1588780559404,
-          "stop" : 1588780559435,
-          "duration" : 31
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check Index Page",
-        "uid" : "7c7762cadb313a6c",
+        "uid" : "ba32f2c681a5a305",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "failed",
         "time" : {
@@ -110,47 +58,86 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Check FixCo page displays correct information",
-        "uid" : "35eae6078dcd00c8",
+        "name" : "Check About PageGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page     | phrase |  |Contact | Contact  |  | FixCo | FixCo     |",
+        "uid" : "64b298eede61b36b",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "passed",
         "time" : {
-          "start" : 1588780581840,
-          "stop" : 1588780584129,
-          "duration" : 2289
+          "start" : 1588780571340,
+          "stop" : 1588780571340,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "qwerty",
-        "uid" : "67e573127b4a35d9",
+        "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
+        "uid" : "5f77ea7c15b4ec6a",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
-        "status" : "failed",
+        "status" : "passed",
         "time" : {
-          "start" : 1588780562037,
-          "stop" : 1588780562686,
-          "duration" : 649
+          "start" : 1588781054601,
+          "stop" : 1588781054617,
+          "duration" : 16
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check About Page",
-        "uid" : "d4ecc1e83d93bb5c",
+        "uid" : "228259a1681575ff",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "failed",
         "time" : {
-          "start" : 1588780565474,
-          "stop" : 1588780565863,
-          "duration" : 389
+          "start" : 1588780568293,
+          "stop" : 1588780568653,
+          "duration" : 360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update work item through API",
+        "uid" : "e2258685e81443e4",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588781060016,
+          "stop" : 1588781060031,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "qwerty",
+        "uid" : "fec51cd19280d47a",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781031196,
+          "stop" : 1588781033571,
+          "duration" : 2375
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Lucerne Publishing case created by Eric Gruber",
+        "uid" : "3e90d04da5303f5",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588780596241,
+          "stop" : 1588780599634,
+          "duration" : 3393
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check contact page displays correct information",
-        "uid" : "3257d3e11f2b98e5",
+        "uid" : "56c735f4f097d051",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "failed",
         "time" : {
@@ -162,8 +149,60 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "Check contact page displays correct information",
+        "uid" : "e4e570cc17591218",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781048789,
+          "stop" : 1588781049108,
+          "duration" : 319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
+        "uid" : "e393b65a47b8b0bf",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588780586623,
+          "stop" : 1588780586623,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Lucerne Publishing case created by Eric Gruber",
+        "uid" : "90ebb3bfbc129bde",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781069033,
+          "stop" : 1588781073296,
+          "duration" : 4263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check FixCo page displays correct information",
+        "uid" : "65f5fbd4d6d71c28",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588780581840,
+          "stop" : 1588780584129,
+          "duration" : 2289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "400 test case numero dy",
-        "uid" : "dfb1480dd5a53554",
+        "uid" : "60d5a00588df25a6",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "broken",
         "time" : {
@@ -175,8 +214,151 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "401 test tres",
+        "uid" : "8cdefe6c7ab4c71d",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588781028675,
+          "stop" : 1588781028706,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "401 test tres",
+        "uid" : "e01f64c288d11087",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588780559404,
+          "stop" : 1588780559435,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check contact page displays correct information",
+        "uid" : "4f05e6a218a72874",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588780573907,
+          "stop" : 1588780575803,
+          "duration" : 1896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check About Page",
+        "uid" : "d2011f1725e34a43",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781036319,
+          "stop" : 1588781036686,
+          "duration" : 367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check contact page displays correct information",
+        "uid" : "cfc764f7b8203f6d",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781046041,
+          "stop" : 1588781046389,
+          "duration" : 348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check About Page",
+        "uid" : "6c2e3d813fa6098f",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588781039084,
+          "stop" : 1588781041163,
+          "duration" : 2079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check FixCo page displays correct information",
+        "uid" : "97d19d075441e665",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588781051571,
+          "stop" : 1588781052100,
+          "duration" : 529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check About Page",
+        "uid" : "e1d7de9bc12625f1",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588780565474,
+          "stop" : 1588780565863,
+          "duration" : 389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "qwerty",
+        "uid" : "60cb9d603c55c60e",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588780562037,
+          "stop" : 1588780562686,
+          "duration" : 649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "400 test case numero dy",
+        "uid" : "401835e108ab2d8a",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588781025707,
+          "stop" : 1588781026085,
+          "duration" : 378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Lucerne Publishing case created by Eric Gruber",
+        "uid" : "c279842eb396f5a",
+        "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1588780602304,
+          "stop" : 1588780605538,
+          "duration" : 3234
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "Update work item through API",
-        "uid" : "bcebbcbe5184d2c6",
+        "uid" : "2d58dcd841b8830e",
         "parentUid" : "c18d5adfc15980c437a48613a6dbd586",
         "status" : "broken",
         "time" : {
