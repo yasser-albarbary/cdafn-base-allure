@@ -9,52 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5f77ea7c15b4ec6a",
+      "uid" : "8ffec1d9e4333a35",
       "status" : "passed",
       "time" : {
-        "start" : 1588781054601,
-        "stop" : 1588781054617,
-        "duration" : 16
-      }
-    } ]
-  },
-  "Check contact page displays correct information" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "e4e570cc17591218",
-      "status" : "failed",
-      "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
-      "time" : {
-        "start" : 1588781048789,
-        "stop" : 1588781049108,
-        "duration" : 319
-      }
-    } ]
-  },
-  "Check Lucerne Publishing case created by Eric Gruber" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "90ebb3bfbc129bde",
-      "status" : "failed",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
-      "time" : {
-        "start" : 1588781069033,
-        "stop" : 1588781073296,
-        "duration" : 4263
+        "start" : 1588781196733,
+        "stop" : 1588781196733,
+        "duration" : 0
       }
     } ]
   },
@@ -68,13 +28,53 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c4f4d99f231ae14e",
+      "uid" : "45355266a7479b90",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588781057001,
-        "stop" : 1588781057399,
-        "duration" : 398
+        "start" : 1588781199197,
+        "stop" : 1588781199580,
+        "duration" : 383
+      }
+    } ]
+  },
+  "Check contact page displays correct information" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4698482f08a934ac",
+      "status" : "failed",
+      "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
+      "time" : {
+        "start" : 1588781188705,
+        "stop" : 1588781189039,
+        "duration" : 334
+      }
+    } ]
+  },
+  "Check Lucerne Publishing case created by Eric Gruber" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cbe7f6f9b4e41dc",
+      "status" : "failed",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
+      "time" : {
+        "start" : 1588781212141,
+        "stop" : 1588781215222,
+        "duration" : 3081
       }
     } ]
   },
@@ -88,12 +88,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "97d19d075441e665",
+      "uid" : "1f6da92d5a565ac3",
       "status" : "passed",
       "time" : {
-        "start" : 1588781051571,
-        "stop" : 1588781052100,
-        "duration" : 529
+        "start" : 1588781191553,
+        "stop" : 1588781194241,
+        "duration" : 2688
       }
     } ]
   },
@@ -107,33 +107,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fec51cd19280d47a",
+      "uid" : "7e69a58304fe8af4",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588781031196,
-        "stop" : 1588781033571,
-        "duration" : 2375
-      }
-    } ]
-  },
-  "400 test case numero dy" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "401835e108ab2d8a",
-      "status" : "broken",
-      "statusDetails" : "No matching step definition found for the step",
-      "time" : {
-        "start" : 1588781025707,
-        "stop" : 1588781026085,
-        "duration" : 378
+        "start" : 1588781168925,
+        "stop" : 1588781170890,
+        "duration" : 1965
       }
     } ]
   },
@@ -147,13 +127,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e2258685e81443e4",
+      "uid" : "f80a19b2fcb0c517",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588781060016,
-        "stop" : 1588781060031,
-        "duration" : 15
+        "start" : 1588781202191,
+        "stop" : 1588781202223,
+        "duration" : 32
+      }
+    } ]
+  },
+  "400 test case numero dy" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "421dd015eda4c53c",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588781163442,
+        "stop" : 1588781163770,
+        "duration" : 328
       }
     } ]
   },
@@ -167,13 +167,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6c2e3d813fa6098f",
+      "uid" : "b0c1d9661802a599",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588781039084,
-        "stop" : 1588781041163,
-        "duration" : 2079
+        "start" : 1588781178195,
+        "stop" : 1588781178521,
+        "duration" : 326
       }
     } ]
   },
@@ -187,11 +187,11 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5803cf1523c39bc8",
+      "uid" : "f3a49e34629442e1",
       "status" : "passed",
       "time" : {
-        "start" : 1588781043674,
-        "stop" : 1588781043674,
+        "start" : 1588781180986,
+        "stop" : 1588781180986,
         "duration" : 0
       }
     } ]
@@ -206,12 +206,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8cdefe6c7ab4c71d",
+      "uid" : "4b24c99c4da861b1",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588781028675,
-        "stop" : 1588781028706,
+        "start" : 1588781166324,
+        "stop" : 1588781166355,
         "duration" : 31
       }
     } ]
