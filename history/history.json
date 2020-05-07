@@ -9,11 +9,11 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b5e9c5e2a96095f4",
+      "uid" : "cddf1110cda04d92",
       "status" : "passed",
       "time" : {
-        "start" : 1588847940937,
-        "stop" : 1588847940937,
+        "start" : 1588860965787,
+        "stop" : 1588860965787,
         "duration" : 0
       }
     } ]
@@ -28,13 +28,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e1c49e5b97419959",
+      "uid" : "5f58a2a507671131",
       "status" : "failed",
       "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
       "time" : {
-        "start" : 1588847962607,
-        "stop" : 1588847971545,
-        "duration" : 8938
+        "start" : 1588860984665,
+        "stop" : 1588860987935,
+        "duration" : 3270
       }
     } ]
   },
@@ -48,13 +48,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "889c1cbfb33ffa96",
+      "uid" : "5223da437f8df3d2",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588847932217,
-        "stop" : 1588847932723,
-        "duration" : 506
+        "start" : 1588860958848,
+        "stop" : 1588860959250,
+        "duration" : 402
       }
     } ]
   },
@@ -68,13 +68,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "525aebccc9f3a4d",
+      "uid" : "7218b8a918ae1250",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588847944038,
-        "stop" : 1588847944500,
-        "duration" : 462
+        "start" : 1588860969673,
+        "stop" : 1588860970564,
+        "duration" : 891
       }
     } ]
   },
@@ -88,12 +88,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9883b69f32f07459",
+      "uid" : "39f98ba78f31be72",
       "status" : "passed",
       "time" : {
-        "start" : 1588847936361,
-        "stop" : 1588847937235,
-        "duration" : 874
+        "start" : 1588860961889,
+        "stop" : 1588860962709,
+        "duration" : 820
       }
     } ]
   },
@@ -107,13 +107,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "487eb5fd5d9f0e44",
+      "uid" : "268922452cc2b15e",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588847903477,
-        "stop" : 1588847912095,
-        "duration" : 8618
+        "start" : 1588860933055,
+        "stop" : 1588860938477,
+        "duration" : 5422
       }
     } ]
   },
@@ -127,13 +127,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e75f1800af79453d",
+      "uid" : "9782c143748a4327",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588847947775,
-        "stop" : 1588847947803,
-        "duration" : 28
+        "start" : 1588860974183,
+        "stop" : 1588860974209,
+        "duration" : 26
       }
     } ]
   },
@@ -147,13 +147,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c897681fb5bc85f5",
+      "uid" : "ad0f9cb453c8d5bb",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588847897004,
-        "stop" : 1588847897474,
-        "duration" : 470
+        "start" : 1588860926386,
+        "stop" : 1588860926798,
+        "duration" : 412
       }
     } ]
   },
@@ -167,13 +167,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "259325b8e87b87f8",
+      "uid" : "6e103a8d041ad224",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588847919996,
-        "stop" : 1588847922126,
-        "duration" : 2130
+        "start" : 1588860947460,
+        "stop" : 1588860947983,
+        "duration" : 523
       }
     } ]
   },
@@ -187,11 +187,11 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b3e8465084cdb905",
+      "uid" : "b19e3f1b0a21d088",
       "status" : "passed",
       "time" : {
-        "start" : 1588847924958,
-        "stop" : 1588847924959,
+        "start" : 1588860951115,
+        "stop" : 1588860951116,
         "duration" : 1
       }
     } ]
@@ -206,13 +206,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3c094319fedcb139",
+      "uid" : "6e777637a2807af5",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588847900468,
-        "stop" : 1588847900507,
-        "duration" : 39
+        "start" : 1588860930292,
+        "stop" : 1588860930326,
+        "duration" : 34
       }
     } ]
   }

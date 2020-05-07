@@ -1,111 +1,111 @@
 [ {
-  "uid" : "487eb5fd5d9f0e44",
-  "name" : "qwerty",
-  "time" : {
-    "start" : 1588847903477,
-    "stop" : 1588847912095,
-    "duration" : 8618
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "525aebccc9f3a4d",
-  "name" : "Check Index Page",
-  "time" : {
-    "start" : 1588847944038,
-    "stop" : 1588847944500,
-    "duration" : 462
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "e1c49e5b97419959",
-  "name" : "Check Lucerne Publishing case created by Eric Gruber",
-  "time" : {
-    "start" : 1588847962607,
-    "stop" : 1588847971545,
-    "duration" : 8938
-  },
-  "status" : "failed",
-  "severity" : "critical"
-}, {
-  "uid" : "889c1cbfb33ffa96",
-  "name" : "Check contact page displays correct information",
-  "time" : {
-    "start" : 1588847932217,
-    "stop" : 1588847932723,
-    "duration" : 506
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "e75f1800af79453d",
+  "uid" : "9782c143748a4327",
   "name" : "Update work item through API",
   "time" : {
-    "start" : 1588847947775,
-    "stop" : 1588847947803,
-    "duration" : 28
+    "start" : 1588860974183,
+    "stop" : 1588860974209,
+    "duration" : 26
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "3c094319fedcb139",
-  "name" : "401 test tres",
+  "uid" : "b19e3f1b0a21d088",
+  "name" : "Check About PageGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page     | phrase |  |Contact | Contact  |  | FixCo | FixCo     |",
   "time" : {
-    "start" : 1588847900468,
-    "stop" : 1588847900507,
-    "duration" : 39
+    "start" : 1588860951115,
+    "stop" : 1588860951116,
+    "duration" : 1
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b5e9c5e2a96095f4",
+  "uid" : "cddf1110cda04d92",
   "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
   "time" : {
-    "start" : 1588847940937,
-    "stop" : 1588847940937,
+    "start" : 1588860965787,
+    "stop" : 1588860965787,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "259325b8e87b87f8",
-  "name" : "Check About Page",
+  "uid" : "39f98ba78f31be72",
+  "name" : "Check FixCo page displays correct information",
   "time" : {
-    "start" : 1588847919996,
-    "stop" : 1588847922126,
-    "duration" : 2130
+    "start" : 1588860961889,
+    "stop" : 1588860962709,
+    "duration" : 820
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5223da437f8df3d2",
+  "name" : "Check contact page displays correct information",
+  "time" : {
+    "start" : 1588860958848,
+    "stop" : 1588860959250,
+    "duration" : 402
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "9883b69f32f07459",
-  "name" : "Check FixCo page displays correct information",
+  "uid" : "268922452cc2b15e",
+  "name" : "qwerty",
   "time" : {
-    "start" : 1588847936361,
-    "stop" : 1588847937235,
-    "duration" : 874
+    "start" : 1588860933055,
+    "stop" : 1588860938477,
+    "duration" : 5422
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "c897681fb5bc85f5",
+  "uid" : "7218b8a918ae1250",
+  "name" : "Check Index Page",
+  "time" : {
+    "start" : 1588860969673,
+    "stop" : 1588860970564,
+    "duration" : 891
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e103a8d041ad224",
+  "name" : "Check About Page",
+  "time" : {
+    "start" : 1588860947460,
+    "stop" : 1588860947983,
+    "duration" : 523
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0f9cb453c8d5bb",
   "name" : "400 test case numero dy",
   "time" : {
-    "start" : 1588847897004,
-    "stop" : 1588847897474,
-    "duration" : 470
+    "start" : 1588860926386,
+    "stop" : 1588860926798,
+    "duration" : 412
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "b3e8465084cdb905",
-  "name" : "Check About PageGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page     | phrase |  |Contact | Contact  |  | FixCo | FixCo     |",
+  "uid" : "6e777637a2807af5",
+  "name" : "401 test tres",
   "time" : {
-    "start" : 1588847924958,
-    "stop" : 1588847924959,
-    "duration" : 1
+    "start" : 1588860930292,
+    "stop" : 1588860930326,
+    "duration" : 34
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
+}, {
+  "uid" : "5f58a2a507671131",
+  "name" : "Check Lucerne Publishing case created by Eric Gruber",
+  "time" : {
+    "start" : 1588860984665,
+    "stop" : 1588860987935,
+    "duration" : 3270
+  },
+  "status" : "failed",
+  "severity" : "critical"
 } ]
