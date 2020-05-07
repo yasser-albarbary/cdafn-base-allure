@@ -1,111 +1,111 @@
 [ {
-  "uid" : "ad0f9cb453c8d5bb",
-  "name" : "400 test case numero dy",
-  "time" : {
-    "start" : 1588860926386,
-    "stop" : 1588860926798,
-    "duration" : 412
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "6e103a8d041ad224",
+  "uid" : "cf8056a22e45469d",
   "name" : "Check About Page",
   "time" : {
-    "start" : 1588860947460,
-    "stop" : 1588860947983,
-    "duration" : 523
+    "start" : 1588866543508,
+    "stop" : 1588866545456,
+    "duration" : 1948
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "6e777637a2807af5",
-  "name" : "401 test tres",
-  "time" : {
-    "start" : 1588860930292,
-    "stop" : 1588860930326,
-    "duration" : 34
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "7218b8a918ae1250",
-  "name" : "Check Index Page",
-  "time" : {
-    "start" : 1588860969673,
-    "stop" : 1588860970564,
-    "duration" : 891
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "5223da437f8df3d2",
+  "uid" : "5a0b80fad666adc6",
   "name" : "Check contact page displays correct information",
   "time" : {
-    "start" : 1588860958848,
-    "stop" : 1588860959250,
-    "duration" : 402
+    "start" : 1588866553514,
+    "stop" : 1588866555519,
+    "duration" : 2005
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "268922452cc2b15e",
-  "name" : "qwerty",
-  "time" : {
-    "start" : 1588860933055,
-    "stop" : 1588860938477,
-    "duration" : 5422
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "cddf1110cda04d92",
-  "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
-  "time" : {
-    "start" : 1588860965787,
-    "stop" : 1588860965787,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9782c143748a4327",
-  "name" : "Update work item through API",
-  "time" : {
-    "start" : 1588860974183,
-    "stop" : 1588860974209,
-    "duration" : 26
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "b19e3f1b0a21d088",
+  "uid" : "404e9dcd684ee8e9",
   "name" : "Check About PageGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page     | phrase |  |Contact | Contact  |  | FixCo | FixCo     |",
   "time" : {
-    "start" : 1588860951115,
-    "stop" : 1588860951116,
+    "start" : 1588866548056,
+    "stop" : 1588866548057,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5f58a2a507671131",
+  "uid" : "9f57d017f95125ee",
+  "name" : "Update work item through API",
+  "time" : {
+    "start" : 1588866566973,
+    "stop" : 1588866567000,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54ed46f2121c4128",
   "name" : "Check Lucerne Publishing case created by Eric Gruber",
   "time" : {
-    "start" : 1588860984665,
-    "stop" : 1588860987935,
-    "duration" : 3270
+    "start" : 1588866576621,
+    "stop" : 1588866579844,
+    "duration" : 3223
   },
   "status" : "failed",
   "severity" : "critical"
 }, {
-  "uid" : "39f98ba78f31be72",
-  "name" : "Check FixCo page displays correct information",
+  "uid" : "ce961cfc16bff9b5",
+  "name" : "401 test tres",
   "time" : {
-    "start" : 1588860961889,
-    "stop" : 1588860962709,
-    "duration" : 820
+    "start" : 1588866531330,
+    "stop" : 1588866531362,
+    "duration" : 32
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4e99ee2eda05d055",
+  "name" : "qwerty",
+  "time" : {
+    "start" : 1588866533958,
+    "stop" : 1588866537558,
+    "duration" : 3600
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2a320d37813048a",
+  "name" : "400 test case numero dy",
+  "time" : {
+    "start" : 1588866528333,
+    "stop" : 1588866528755,
+    "duration" : 422
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8906f2ce0c26ff17",
+  "name" : "Check FixCo page displays correct informationGiven the customer is on the test target appWhen the '<page>' page is selectedThen the page contains the phrase '<phrase>'Examples:  | page              | phrase               |  | FixCo Portal   | FixCo Portal       |",
+  "time" : {
+    "start" : 1588866561412,
+    "stop" : 1588866561413,
+    "duration" : 1
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f0a050a489e224",
+  "name" : "Check FixCo page displays correct information",
+  "time" : {
+    "start" : 1588866558156,
+    "stop" : 1588866558795,
+    "duration" : 639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9510f31668f596cc",
+  "name" : "Check Index Page",
+  "time" : {
+    "start" : 1588866564026,
+    "stop" : 1588866564382,
+    "duration" : 356
+  },
+  "status" : "failed",
   "severity" : "normal"
 } ]

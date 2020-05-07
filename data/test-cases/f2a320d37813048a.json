@@ -1,0 +1,210 @@
+{
+  "uid" : "f2a320d37813048a",
+  "name" : "400 test case numero dy",
+  "fullName" : "400 test case numero dy",
+  "historyId" : "400 test case numero dy",
+  "time" : {
+    "start" : 1588866528333,
+    "stop" : 1588866528755,
+    "duration" : 422
+  },
+  "status" : "broken",
+  "statusMessage" : "No matching step definition found for the step",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Tags [10000]",
+    "time" : {
+      "start" : 1588866524962,
+      "stop" : 1588866524964,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "BeforeScenario [10000]",
+    "time" : {
+      "start" : 1588866524964,
+      "stop" : 1588866528264,
+      "duration" : 3300
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "BeforeFeature [10000]",
+    "time" : {
+      "start" : 1588866524891,
+      "stop" : 1588866524895,
+      "duration" : 4
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "No matching step definition found for the step",
+    "steps" : [ {
+      "name" : "Given  i have a test suite",
+      "time" : {
+        "start" : 1588866528392,
+        "stop" : 1588866528588,
+        "duration" : 196
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When  I do an api request to the test suite",
+      "time" : {
+        "start" : 1588866528591,
+        "stop" : 1588866528594,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  a list of test cases is displayed",
+      "time" : {
+        "start" : 1588866528594,
+        "stop" : 1588866528596,
+        "duration" : 2
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ {
+    "name" : "AfterScenario [10000]",
+    "time" : {
+      "start" : 1588866528755,
+      "stop" : 1588866528929,
+      "duration" : 174
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "TACI-EUD-DP"
+  }, {
+    "name" : "feature",
+    "value" : "aa"
+  }, {
+    "name" : "tag",
+    "value" : "georgeTag"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "37208b2078c3f960",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588860926386,
+        "stop" : 1588860926798,
+        "duration" : 412
+      }
+    }, {
+      "uid" : "aaed44cdc5207b6f",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588847897004,
+        "stop" : 1588847897474,
+        "duration" : 470
+      }
+    }, {
+      "uid" : "2c995729df53d652",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588781163442,
+        "stop" : 1588781163770,
+        "duration" : 328
+      }
+    }, {
+      "uid" : "b05ddab6002ffdb3",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588781025707,
+        "stop" : 1588781026085,
+        "duration" : 378
+      }
+    }, {
+      "uid" : "5b5b1c5d76a5246a",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588780556335,
+        "stop" : 1588780556726,
+        "duration" : 391
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "georgeTag" ]
+  },
+  "source" : "f2a320d37813048a.json",
+  "parameterValues" : [ ]
+}
