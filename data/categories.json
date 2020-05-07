@@ -7,38 +7,38 @@
       "name" : "No matching step definition found for the step",
       "children" : [ {
         "name" : "400 test case numero dy",
-        "uid" : "f2a320d37813048a",
+        "uid" : "6c6bfcda1746ca48",
         "parentUid" : "d5df17c7a9f7f5d15dfce9d60c1af467",
         "status" : "broken",
         "time" : {
-          "start" : 1588866528333,
-          "stop" : 1588866528755,
-          "duration" : 422
+          "start" : 1588869553907,
+          "stop" : 1588869554299,
+          "duration" : 392
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "401 test tres",
-        "uid" : "ce961cfc16bff9b5",
+        "uid" : "3edd48e07e179c42",
         "parentUid" : "d5df17c7a9f7f5d15dfce9d60c1af467",
         "status" : "broken",
         "time" : {
-          "start" : 1588866531330,
-          "stop" : 1588866531362,
-          "duration" : 32
+          "start" : 1588869556912,
+          "stop" : 1588869556948,
+          "duration" : 36
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Update work item through API",
-        "uid" : "9f57d017f95125ee",
+        "uid" : "13b176888862a215",
         "parentUid" : "d5df17c7a9f7f5d15dfce9d60c1af467",
         "status" : "broken",
         "time" : {
-          "start" : 1588866566973,
-          "stop" : 1588866567000,
+          "start" : 1588869598563,
+          "stop" : 1588869598590,
           "duration" : 27
         },
         "flaky" : false,
@@ -54,26 +54,26 @@
       "name" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "children" : [ {
         "name" : "qwerty",
-        "uid" : "4e99ee2eda05d055",
+        "uid" : "6e74fa5850acf2b9",
         "parentUid" : "55a2745183a5134b9115626f96fb90b3",
         "status" : "failed",
         "time" : {
-          "start" : 1588866533958,
-          "stop" : 1588866537558,
-          "duration" : 3600
+          "start" : 1588869559641,
+          "stop" : 1588869564339,
+          "duration" : 4698
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check Index Page",
-        "uid" : "9510f31668f596cc",
+        "uid" : "479539670f97221e",
         "parentUid" : "55a2745183a5134b9115626f96fb90b3",
         "status" : "failed",
         "time" : {
-          "start" : 1588866564026,
-          "stop" : 1588866564382,
-          "duration" : 356
+          "start" : 1588869595522,
+          "stop" : 1588869595910,
+          "duration" : 388
         },
         "flaky" : false,
         "newFailed" : false,
@@ -84,26 +84,26 @@
       "name" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "children" : [ {
         "name" : "Check About Page",
-        "uid" : "cf8056a22e45469d",
+        "uid" : "f7e8ee6654b0ac30",
         "parentUid" : "db8ebdb739903144fd2e4ddfbc022a5a",
         "status" : "failed",
         "time" : {
-          "start" : 1588866543508,
-          "stop" : 1588866545456,
-          "duration" : 1948
+          "start" : 1588869571598,
+          "stop" : 1588869573522,
+          "duration" : 1924
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Check contact page displays correct information",
-        "uid" : "5a0b80fad666adc6",
+        "uid" : "fde3b1b6303b9164",
         "parentUid" : "db8ebdb739903144fd2e4ddfbc022a5a",
         "status" : "failed",
         "time" : {
-          "start" : 1588866553514,
-          "stop" : 1588866555519,
-          "duration" : 2005
+          "start" : 1588869583035,
+          "stop" : 1588869585354,
+          "duration" : 2319
         },
         "flaky" : false,
         "newFailed" : false,
@@ -114,13 +114,13 @@
       "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
       "children" : [ {
         "name" : "Check Lucerne Publishing case created by Eric Gruber",
-        "uid" : "54ed46f2121c4128",
+        "uid" : "c8a38f6c6528b74d",
         "parentUid" : "0861174e586f01815815b290089a6790",
         "status" : "failed",
         "time" : {
-          "start" : 1588866576621,
-          "stop" : 1588866579844,
-          "duration" : 3223
+          "start" : 1588869608478,
+          "stop" : 1588869613005,
+          "duration" : 4527
         },
         "flaky" : false,
         "newFailed" : false,

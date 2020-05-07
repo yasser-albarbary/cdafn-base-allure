@@ -1,0 +1,219 @@
+{
+  "uid" : "3edd48e07e179c42",
+  "name" : "401 test tres",
+  "fullName" : "401 test tres",
+  "historyId" : "401 test tres",
+  "time" : {
+    "start" : 1588869556912,
+    "stop" : 1588869556948,
+    "duration" : 36
+  },
+  "status" : "broken",
+  "statusMessage" : "No matching step definition found for the step",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Tags [10000]",
+    "time" : {
+      "start" : 1588869554479,
+      "stop" : 1588869554479,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "BeforeScenario [10000]",
+    "time" : {
+      "start" : 1588869554479,
+      "stop" : 1588869556854,
+      "duration" : 2375
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "BeforeFeature [10000]",
+    "time" : {
+      "start" : 1588869550361,
+      "stop" : 1588869550367,
+      "duration" : 6
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "No matching step definition found for the step",
+    "steps" : [ {
+      "name" : "Given  a number of skittles",
+      "time" : {
+        "start" : 1588869556913,
+        "stop" : 1588869556916,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  I take 2",
+      "time" : {
+        "start" : 1588869556916,
+        "stop" : 1588869556927,
+        "duration" : 11
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  there are 2 lees than when I started",
+      "time" : {
+        "start" : 1588869556927,
+        "stop" : 1588869556929,
+        "duration" : 2
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "AfterScenario [10000]",
+    "time" : {
+      "start" : 1588869556948,
+      "stop" : 1588869557164,
+      "duration" : 216
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "TACI-EUD-DP"
+  }, {
+    "name" : "feature",
+    "value" : "aa"
+  }, {
+    "name" : "tag",
+    "value" : "georgeTag"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf19387decc910d",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588866531330,
+        "stop" : 1588866531362,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "d143ef814316b0e9",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588860930292,
+        "stop" : 1588860930326,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "ebf51b642281b926",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588847900468,
+        "stop" : 1588847900507,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "8b416650c6be1e68",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588781166324,
+        "stop" : 1588781166355,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "e5b1e598349e87b8",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588781028675,
+        "stop" : 1588781028706,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "667ec4a38c68e77b",
+      "status" : "broken",
+      "statusDetails" : "No matching step definition found for the step",
+      "time" : {
+        "start" : 1588780559404,
+        "stop" : 1588780559435,
+        "duration" : 31
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "georgeTag" ]
+  },
+  "source" : "3edd48e07e179c42.json",
+  "parameterValues" : [ ]
+}

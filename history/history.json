@@ -9,52 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8906f2ce0c26ff17",
+      "uid" : "1b09bad3306ad487",
       "status" : "passed",
       "time" : {
-        "start" : 1588866561412,
-        "stop" : 1588866561413,
+        "start" : 1588869592735,
+        "stop" : 1588869592736,
         "duration" : 1
-      }
-    } ]
-  },
-  "Check Index Page" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "9510f31668f596cc",
-      "status" : "failed",
-      "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
-      "time" : {
-        "start" : 1588866564026,
-        "stop" : 1588866564382,
-        "duration" : 356
-      }
-    } ]
-  },
-  "Check Lucerne Publishing case created by Eric Gruber" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "54ed46f2121c4128",
-      "status" : "failed",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
-      "time" : {
-        "start" : 1588866576621,
-        "stop" : 1588866579844,
-        "duration" : 3223
       }
     } ]
   },
@@ -68,13 +28,53 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5a0b80fad666adc6",
+      "uid" : "fde3b1b6303b9164",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588866553514,
-        "stop" : 1588866555519,
-        "duration" : 2005
+        "start" : 1588869583035,
+        "stop" : 1588869585354,
+        "duration" : 2319
+      }
+    } ]
+  },
+  "Check Lucerne Publishing case created by Eric Gruber" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8a38f6c6528b74d",
+      "status" : "failed",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@alt='Close']\"}\n  (Session info: chrome=81.0.4044.129)",
+      "time" : {
+        "start" : 1588869608478,
+        "stop" : 1588869613005,
+        "duration" : 4527
+      }
+    } ]
+  },
+  "Check Index Page" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "479539670f97221e",
+      "status" : "failed",
+      "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
+      "time" : {
+        "start" : 1588869595522,
+        "stop" : 1588869595910,
+        "duration" : 388
       }
     } ]
   },
@@ -88,12 +88,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6f0a050a489e224",
+      "uid" : "a1ffd8bb16f1e3dc",
       "status" : "passed",
       "time" : {
-        "start" : 1588866558156,
-        "stop" : 1588866558795,
-        "duration" : 639
+        "start" : 1588869588039,
+        "stop" : 1588869590132,
+        "duration" : 2093
       }
     } ]
   },
@@ -107,13 +107,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4e99ee2eda05d055",
+      "uid" : "6e74fa5850acf2b9",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: Contact\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588866533958,
-        "stop" : 1588866537558,
-        "duration" : 3600
+        "start" : 1588869559641,
+        "stop" : 1588869564339,
+        "duration" : 4698
       }
     } ]
   },
@@ -127,13 +127,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f2a320d37813048a",
+      "uid" : "6c6bfcda1746ca48",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588866528333,
-        "stop" : 1588866528755,
-        "duration" : 422
+        "start" : 1588869553907,
+        "stop" : 1588869554299,
+        "duration" : 392
       }
     } ]
   },
@@ -147,12 +147,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9f57d017f95125ee",
+      "uid" : "13b176888862a215",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588866566973,
-        "stop" : 1588866567000,
+        "start" : 1588869598563,
+        "stop" : 1588869598590,
         "duration" : 27
       }
     } ]
@@ -167,13 +167,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cf8056a22e45469d",
+      "uid" : "f7e8ee6654b0ac30",
       "status" : "failed",
       "statusDetails" : "  No page found with the given name: FixCo\r\n  Expected: not null\r\n  But was:  null\r\n",
       "time" : {
-        "start" : 1588866543508,
-        "stop" : 1588866545456,
-        "duration" : 1948
+        "start" : 1588869571598,
+        "stop" : 1588869573522,
+        "duration" : 1924
       }
     } ]
   },
@@ -187,11 +187,11 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "404e9dcd684ee8e9",
+      "uid" : "d9b05e6c838c505",
       "status" : "passed",
       "time" : {
-        "start" : 1588866548056,
-        "stop" : 1588866548057,
+        "start" : 1588869576012,
+        "stop" : 1588869576013,
         "duration" : 1
       }
     } ]
@@ -206,13 +206,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ce961cfc16bff9b5",
+      "uid" : "3edd48e07e179c42",
       "status" : "broken",
       "statusDetails" : "No matching step definition found for the step",
       "time" : {
-        "start" : 1588866531330,
-        "stop" : 1588866531362,
-        "duration" : 32
+        "start" : 1588869556912,
+        "stop" : 1588869556948,
+        "duration" : 36
       }
     } ]
   }
